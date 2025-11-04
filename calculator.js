@@ -69,7 +69,8 @@ Hints:
 - Display the result using console.log()
 
 Example structure:
-  if (!isValidOperation(operation)) {
+  if (!isValidOperat
+  ion(operation)) {
     console.log("Invalid operation. Use: add, subtract, multiply, or divide");
     return;
   }
